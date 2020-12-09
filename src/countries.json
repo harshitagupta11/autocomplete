@@ -1,0 +1,1262 @@
+[
+   {
+      "column0": "AD",
+      "Country": "Andorra",
+      "Capital": "Andorra la Vella"
+   },
+   {
+      "column0": "AE",
+      "Country": "United Arab Emirates",
+      "Capital": "Abu Dhabi"
+   },
+   {
+      "column0": "AF",
+      "Country": "Afghanistan",
+      "Capital": "Kabul"
+   },
+   {
+      "column0": "AG",
+      "Country": "Antigua and Barbuda",
+      "Capital": "St. John's"
+   },
+   {
+      "column0": "AI",
+      "Country": "Anguilla",
+      "Capital": "The Valley"
+   },
+   {
+      "column0": "AL",
+      "Country": "Albania",
+      "Capital": "Tirana"
+   },
+   {
+      "column0": "AM",
+      "Country": "Armenia",
+      "Capital": "Yerevan"
+   },
+   {
+      "column0": "AO",
+      "Country": "Angola",
+      "Capital": "Luanda"
+   },
+   {
+      "column0": "AQ",
+      "Country": "Antarctica"
+   },
+   {
+      "column0": "AR",
+      "Country": "Argentina",
+      "Capital": "Buenos Aires"
+   },
+   {
+      "column0": "AS",
+      "Country": "American Samoa",
+      "Capital": "Pago Pago"
+   },
+   {
+      "column0": "AT",
+      "Country": "Austria",
+      "Capital": "Vienna"
+   },
+   {
+      "column0": "AU",
+      "Country": "Australia",
+      "Capital": "Canberra"
+   },
+   {
+      "column0": "AW",
+      "Country": "Aruba",
+      "Capital": "Oranjestad"
+   },
+   {
+      "column0": "AX",
+      "Country": "Aland Islands",
+      "Capital": "Mariehamn"
+   },
+   {
+      "column0": "AZ",
+      "Country": "Azerbaijan",
+      "Capital": "Baku"
+   },
+   {
+      "column0": "BA",
+      "Country": "Bosnia and Herzegovina",
+      "Capital": "Sarajevo"
+   },
+   {
+      "column0": "BB",
+      "Country": "Barbados",
+      "Capital": "Bridgetown"
+   },
+   {
+      "column0": "BD",
+      "Country": "Bangladesh",
+      "Capital": "Dhaka"
+   },
+   {
+      "column0": "BE",
+      "Country": "Belgium",
+      "Capital": "Brussels"
+   },
+   {
+      "column0": "BF",
+      "Country": "Burkina Faso",
+      "Capital": "Ouagadougou"
+   },
+   {
+      "column0": "BG",
+      "Country": "Bulgaria",
+      "Capital": "Sofia"
+   },
+   {
+      "column0": "BH",
+      "Country": "Bahrain",
+      "Capital": "Manama"
+   },
+   {
+      "column0": "BI",
+      "Country": "Burundi",
+      "Capital": "Gitega"
+   },
+   {
+      "column0": "BJ",
+      "Country": "Benin",
+      "Capital": "Porto-Novo"
+   },
+   {
+      "column0": "BL",
+      "Country": "Saint Barthelemy",
+      "Capital": "Gustavia"
+   },
+   {
+      "column0": "BM",
+      "Country": "Bermuda",
+      "Capital": "Hamilton"
+   },
+   {
+      "column0": "BN",
+      "Country": "Brunei",
+      "Capital": "Bandar Seri Begawan"
+   },
+   {
+      "column0": "BO",
+      "Country": "Bolivia",
+      "Capital": "Sucre"
+   },
+   {
+      "column0": "BQ",
+      "Country": "Bonaire"
+   },
+   {
+      "column0": "BR",
+      "Country": "Brazil",
+      "Capital": "Brasilia"
+   },
+   {
+      "column0": "BS",
+      "Country": "Bahamas",
+      "Capital": "Nassau"
+   },
+   {
+      "column0": "BT",
+      "Country": "Bhutan",
+      "Capital": "Thimphu"
+   },
+   {
+      "column0": "BV",
+      "Country": "Bouvet Island"
+   },
+   {
+      "column0": "BW",
+      "Country": "Botswana",
+      "Capital": "Gaborone"
+   },
+   {
+      "column0": "BY",
+      "Country": "Belarus",
+      "Capital": "Minsk"
+   },
+   {
+      "column0": "BZ",
+      "Country": "Belize",
+      "Capital": "Belmopan"
+   },
+   {
+      "column0": "CA",
+      "Country": "Canada",
+      "Capital": "Ottawa"
+   },
+   {
+      "column0": "CC",
+      "Country": "Cocos Islands",
+      "Capital": "West Island"
+   },
+   {
+      "column0": "CD",
+      "Country": "Democratic Republic of the Congo",
+      "Capital": "Kinshasa"
+   },
+   {
+      "column0": "CF",
+      "Country": "Central African Republic",
+      "Capital": "Bangui"
+   },
+   {
+      "column0": "CG",
+      "Country": "Republic of the Congo",
+      "Capital": "Brazzaville"
+   },
+   {
+      "column0": "CH",
+      "Country": "Switzerland",
+      "Capital": "Bern"
+   },
+   {
+      "column0": "CI",
+      "Country": "Ivory Coast",
+      "Capital": "Yamoussoukro"
+   },
+   {
+      "column0": "CK",
+      "Country": "Cook Islands",
+      "Capital": "Avarua"
+   },
+   {
+      "column0": "CL",
+      "Country": "Chile",
+      "Capital": "Santiago"
+   },
+   {
+      "column0": "CM",
+      "Country": "Cameroon",
+      "Capital": "Yaounde"
+   },
+   {
+      "column0": "CN",
+      "Country": "China",
+      "Capital": "Beijing"
+   },
+   {
+      "column0": "CO",
+      "Country": "Colombia",
+      "Capital": "Bogota"
+   },
+   {
+      "column0": "CR",
+      "Country": "Costa Rica",
+      "Capital": "San Jose"
+   },
+   {
+      "column0": "CU",
+      "Country": "Cuba",
+      "Capital": "Havana"
+   },
+   {
+      "column0": "CV",
+      "Country": "Cabo Verde",
+      "Capital": "Praia"
+   },
+   {
+      "column0": "CW",
+      "Country": "Curacao",
+      "Capital": "Willemstad"
+   },
+   {
+      "column0": "CX",
+      "Country": "Christmas Island",
+      "Capital": "Flying Fish Cove"
+   },
+   {
+      "column0": "CY",
+      "Country": "Cyprus",
+      "Capital": "Nicosia"
+   },
+   {
+      "column0": "CZ",
+      "Country": "Czechia",
+      "Capital": "Prague"
+   },
+   {
+      "column0": "DE",
+      "Country": "Germany",
+      "Capital": "Berlin"
+   },
+   {
+      "column0": "DJ",
+      "Country": "Djibouti",
+      "Capital": "Djibouti"
+   },
+   {
+      "column0": "DK",
+      "Country": "Denmark",
+      "Capital": "Copenhagen"
+   },
+   {
+      "column0": "DM",
+      "Country": "Dominica",
+      "Capital": "Roseau"
+   },
+   {
+      "column0": "DO",
+      "Country": "Dominican Republic",
+      "Capital": "Santo Domingo"
+   },
+   {
+      "column0": "DZ",
+      "Country": "Algeria",
+      "Capital": "Algiers"
+   },
+   {
+      "column0": "EC",
+      "Country": "Ecuador",
+      "Capital": "Quito"
+   },
+   {
+      "column0": "EE",
+      "Country": "Estonia",
+      "Capital": "Tallinn"
+   },
+   {
+      "column0": "EG",
+      "Country": "Egypt",
+      "Capital": "Cairo"
+   },
+   {
+      "column0": "EH",
+      "Country": "Western Sahara",
+      "Capital": "El-Aaiun"
+   },
+   {
+      "column0": "ER",
+      "Country": "Eritrea",
+      "Capital": "Asmara"
+   },
+   {
+      "column0": "ES",
+      "Country": "Spain",
+      "Capital": "Madrid"
+   },
+   {
+      "column0": "ET",
+      "Country": "Ethiopia",
+      "Capital": "Addis Ababa"
+   },
+   {
+      "column0": "FI",
+      "Country": "Finland",
+      "Capital": "Helsinki"
+   },
+   {
+      "column0": "FJ",
+      "Country": "Fiji",
+      "Capital": "Suva"
+   },
+   {
+      "column0": "FK",
+      "Country": "Falkland Islands",
+      "Capital": "Stanley"
+   },
+   {
+      "column0": "FM",
+      "Country": "Micronesia",
+      "Capital": "Palikir"
+   },
+   {
+      "column0": "FO",
+      "Country": "Faroe Islands",
+      "Capital": "Torshavn"
+   },
+   {
+      "column0": "FR",
+      "Country": "France",
+      "Capital": "Paris"
+   },
+   {
+      "column0": "GA",
+      "Country": "Gabon",
+      "Capital": "Libreville"
+   },
+   {
+      "column0": "GB",
+      "Country": "United Kingdom",
+      "Capital": "London"
+   },
+   {
+      "column0": "GD",
+      "Country": "Grenada",
+      "Capital": "St. George's"
+   },
+   {
+      "column0": "GE",
+      "Country": "Georgia",
+      "Capital": "Tbilisi"
+   },
+   {
+      "column0": "GF",
+      "Country": "French Guiana",
+      "Capital": "Cayenne"
+   },
+   {
+      "column0": "GG",
+      "Country": "Guernsey",
+      "Capital": "St Peter Port"
+   },
+   {
+      "column0": "GH",
+      "Country": "Ghana",
+      "Capital": "Accra"
+   },
+   {
+      "column0": "GI",
+      "Country": "Gibraltar",
+      "Capital": "Gibraltar"
+   },
+   {
+      "column0": "GL",
+      "Country": "Greenland",
+      "Capital": "Nuuk"
+   },
+   {
+      "column0": "GM",
+      "Country": "Gambia",
+      "Capital": "Banjul"
+   },
+   {
+      "column0": "GN",
+      "Country": "Guinea",
+      "Capital": "Conakry"
+   },
+   {
+      "column0": "GP",
+      "Country": "Guadeloupe",
+      "Capital": "Basse-Terre"
+   },
+   {
+      "column0": "GQ",
+      "Country": "Equatorial Guinea",
+      "Capital": "Malabo"
+   },
+   {
+      "column0": "GR",
+      "Country": "Greece",
+      "Capital": "Athens"
+   },
+   {
+      "column0": "GS",
+      "Country": "South Georgia and the South Sandwich Islands",
+      "Capital": "Grytviken"
+   },
+   {
+      "column0": "GT",
+      "Country": "Guatemala",
+      "Capital": "Guatemala City"
+   },
+   {
+      "column0": "GU",
+      "Country": "Guam",
+      "Capital": "Hagatna"
+   },
+   {
+      "column0": "GW",
+      "Country": "Guinea-Bissau",
+      "Capital": "Bissau"
+   },
+   {
+      "column0": "GY",
+      "Country": "Guyana",
+      "Capital": "Georgetown"
+   },
+   {
+      "column0": "HK",
+      "Country": "Hong Kong",
+      "Capital": "Hong Kong"
+   },
+   {
+      "column0": "HM",
+      "Country": "Heard Island and McDonald Islands"
+   },
+   {
+      "column0": "HN",
+      "Country": "Honduras",
+      "Capital": "Tegucigalpa"
+   },
+   {
+      "column0": "HR",
+      "Country": "Croatia",
+      "Capital": "Zagreb"
+   },
+   {
+      "column0": "HT",
+      "Country": "Haiti",
+      "Capital": "Port-au-Prince"
+   },
+   {
+      "column0": "HU",
+      "Country": "Hungary",
+      "Capital": "Budapest"
+   },
+   {
+      "column0": "ID",
+      "Country": "Indonesia",
+      "Capital": "Jakarta"
+   },
+   {
+      "column0": "IE",
+      "Country": "Ireland",
+      "Capital": "Dublin"
+   },
+   {
+      "column0": "IL",
+      "Country": "Israel",
+      "Capital": "Jerusalem"
+   },
+   {
+      "column0": "IM",
+      "Country": "Isle of Man",
+      "Capital": "Douglas"
+   },
+   {
+      "column0": "IN",
+      "Country": "India",
+      "Capital": "New Delhi"
+   },
+   {
+      "column0": "IO",
+      "Country": "British Indian Ocean Territory",
+      "Capital": "Diego Garcia"
+   },
+   {
+      "column0": "IQ",
+      "Country": "Iraq",
+      "Capital": "Baghdad"
+   },
+   {
+      "column0": "IR",
+      "Country": "Iran",
+      "Capital": "Tehran"
+   },
+   {
+      "column0": "IS",
+      "Country": "Iceland",
+      "Capital": "Reykjavik"
+   },
+   {
+      "column0": "IT",
+      "Country": "Italy",
+      "Capital": "Rome"
+   },
+   {
+      "column0": "JE",
+      "Country": "Jersey",
+      "Capital": "Saint Helier"
+   },
+   {
+      "column0": "JM",
+      "Country": "Jamaica",
+      "Capital": "Kingston"
+   },
+   {
+      "column0": "JO",
+      "Country": "Jordan",
+      "Capital": "Amman"
+   },
+   {
+      "column0": "JP",
+      "Country": "Japan",
+      "Capital": "Tokyo"
+   },
+   {
+      "column0": "KE",
+      "Country": "Kenya",
+      "Capital": "Nairobi"
+   },
+   {
+      "column0": "KG",
+      "Country": "Kyrgyzstan",
+      "Capital": "Bishkek"
+   },
+   {
+      "column0": "KH",
+      "Country": "Cambodia",
+      "Capital": "Phnom Penh"
+   },
+   {
+      "column0": "KI",
+      "Country": "Kiribati",
+      "Capital": "Tarawa"
+   },
+   {
+      "column0": "KM",
+      "Country": "Comoros",
+      "Capital": "Moroni"
+   },
+   {
+      "column0": "KN",
+      "Country": "Saint Kitts and Nevis",
+      "Capital": "Basseterre"
+   },
+   {
+      "column0": "KP",
+      "Country": "North Korea",
+      "Capital": "Pyongyang"
+   },
+   {
+      "column0": "KR",
+      "Country": "South Korea",
+      "Capital": "Seoul"
+   },
+   {
+      "column0": "XK",
+      "Country": "Kosovo",
+      "Capital": "Pristina"
+   },
+   {
+      "column0": "KW",
+      "Country": "Kuwait",
+      "Capital": "Kuwait City"
+   },
+   {
+      "column0": "KY",
+      "Country": "Cayman Islands",
+      "Capital": "George Town"
+   },
+   {
+      "column0": "KZ",
+      "Country": "Kazakhstan",
+      "Capital": "Nur-Sultan"
+   },
+   {
+      "column0": "LA",
+      "Country": "Laos",
+      "Capital": "Vientiane"
+   },
+   {
+      "column0": "LB",
+      "Country": "Lebanon",
+      "Capital": "Beirut"
+   },
+   {
+      "column0": "LC",
+      "Country": "Saint Lucia",
+      "Capital": "Castries"
+   },
+   {
+      "column0": "LI",
+      "Country": "Liechtenstein",
+      "Capital": "Vaduz"
+   },
+   {
+      "column0": "LK",
+      "Country": "Sri Lanka",
+      "Capital": "Colombo"
+   },
+   {
+      "column0": "LR",
+      "Country": "Liberia",
+      "Capital": "Monrovia"
+   },
+   {
+      "column0": "LS",
+      "Country": "Lesotho",
+      "Capital": "Maseru"
+   },
+   {
+      "column0": "LT",
+      "Country": "Lithuania",
+      "Capital": "Vilnius"
+   },
+   {
+      "column0": "LU",
+      "Country": "Luxembourg",
+      "Capital": "Luxembourg"
+   },
+   {
+      "column0": "LV",
+      "Country": "Latvia",
+      "Capital": "Riga"
+   },
+   {
+      "column0": "LY",
+      "Country": "Libya",
+      "Capital": "Tripoli"
+   },
+   {
+      "column0": "MA",
+      "Country": "Morocco",
+      "Capital": "Rabat"
+   },
+   {
+      "column0": "MC",
+      "Country": "Monaco",
+      "Capital": "Monaco"
+   },
+   {
+      "column0": "MD",
+      "Country": "Moldova",
+      "Capital": "Chisinau"
+   },
+   {
+      "column0": "ME",
+      "Country": "Montenegro",
+      "Capital": "Podgorica"
+   },
+   {
+      "column0": "MF",
+      "Country": "Saint Martin",
+      "Capital": "Marigot"
+   },
+   {
+      "column0": "MG",
+      "Country": "Madagascar",
+      "Capital": "Antananarivo"
+   },
+   {
+      "column0": "MH",
+      "Country": "Marshall Islands",
+      "Capital": "Majuro"
+   },
+   {
+      "column0": "MK",
+      "Country": "North Macedonia",
+      "Capital": "Skopje"
+   },
+   {
+      "column0": "ML",
+      "Country": "Mali",
+      "Capital": "Bamako"
+   },
+   {
+      "column0": "MM",
+      "Country": "Myanmar",
+      "Capital": "Nay Pyi Taw"
+   },
+   {
+      "column0": "MN",
+      "Country": "Mongolia",
+      "Capital": "Ulaanbaatar"
+   },
+   {
+      "column0": "MO",
+      "Country": "Macao",
+      "Capital": "Macao"
+   },
+   {
+      "column0": "MP",
+      "Country": "Northern Mariana Islands",
+      "Capital": "Saipan"
+   },
+   {
+      "column0": "MQ",
+      "Country": "Martinique",
+      "Capital": "Fort-de-France"
+   },
+   {
+      "column0": "MR",
+      "Country": "Mauritania",
+      "Capital": "Nouakchott"
+   },
+   {
+      "column0": "MS",
+      "Country": "Montserrat",
+      "Capital": "Plymouth"
+   },
+   {
+      "column0": "MT",
+      "Country": "Malta",
+      "Capital": "Valletta"
+   },
+   {
+      "column0": "MU",
+      "Country": "Mauritius",
+      "Capital": "Port Louis"
+   },
+   {
+      "column0": "MV",
+      "Country": "Maldives",
+      "Capital": "Male"
+   },
+   {
+      "column0": "MW",
+      "Country": "Malawi",
+      "Capital": "Lilongwe"
+   },
+   {
+      "column0": "MX",
+      "Country": "Mexico",
+      "Capital": "Mexico City"
+   },
+   {
+      "column0": "MY",
+      "Country": "Malaysia",
+      "Capital": "Kuala Lumpur"
+   },
+   {
+      "column0": "MZ",
+      "Country": "Mozambique",
+      "Capital": "Maputo"
+   },
+   {
+      "column0": "NA",
+      "Country": "Namibia",
+      "Capital": "Windhoek"
+   },
+   {
+      "column0": "NC",
+      "Country": "New Caledonia",
+      "Capital": "Noumea"
+   },
+   {
+      "column0": "NE",
+      "Country": "Niger",
+      "Capital": "Niamey"
+   },
+   {
+      "column0": "NF",
+      "Country": "Norfolk Island",
+      "Capital": "Kingston"
+   },
+   {
+      "column0": "NG",
+      "Country": "Nigeria",
+      "Capital": "Abuja"
+   },
+   {
+      "column0": "NI",
+      "Country": "Nicaragua",
+      "Capital": "Managua"
+   },
+   {
+      "column0": "NL",
+      "Country": "Netherlands",
+      "Capital": "Amsterdam"
+   },
+   {
+      "column0": "NO",
+      "Country": "Norway",
+      "Capital": "Oslo"
+   },
+   {
+      "column0": "NP",
+      "Country": "Nepal",
+      "Capital": "Kathmandu"
+   },
+   {
+      "column0": "NR",
+      "Country": "Nauru",
+      "Capital": "Yaren"
+   },
+   {
+      "column0": "NU",
+      "Country": "Niue",
+      "Capital": "Alofi"
+   },
+   {
+      "column0": "NZ",
+      "Country": "New Zealand",
+      "Capital": "Wellington"
+   },
+   {
+      "column0": "OM",
+      "Country": "Oman",
+      "Capital": "Muscat"
+   },
+   {
+      "column0": "PA",
+      "Country": "Panama",
+      "Capital": "Panama City"
+   },
+   {
+      "column0": "PE",
+      "Country": "Peru",
+      "Capital": "Lima"
+   },
+   {
+      "column0": "PF",
+      "Country": "French Polynesia",
+      "Capital": "Papeete"
+   },
+   {
+      "column0": "PG",
+      "Country": "Papua New Guinea",
+      "Capital": "Port Moresby"
+   },
+   {
+      "column0": "PH",
+      "Country": "Philippines",
+      "Capital": "Manila"
+   },
+   {
+      "column0": "PK",
+      "Country": "Pakistan",
+      "Capital": "Islamabad"
+   },
+   {
+      "column0": "PL",
+      "Country": "Poland",
+      "Capital": "Warsaw"
+   },
+   {
+      "column0": "PM",
+      "Country": "Saint Pierre and Miquelon",
+      "Capital": "Saint-Pierre"
+   },
+   {
+      "column0": "PN",
+      "Country": "Pitcairn",
+      "Capital": "Adamstown"
+   },
+   {
+      "column0": "PR",
+      "Country": "Puerto Rico",
+      "Capital": "San Juan"
+   },
+   {
+      "column0": "PS",
+      "Country": "Palestinian Territory",
+      "Capital": "East Jerusalem"
+   },
+   {
+      "column0": "PT",
+      "Country": "Portugal",
+      "Capital": "Lisbon"
+   },
+   {
+      "column0": "PW",
+      "Country": "Palau",
+      "Capital": "Melekeok"
+   },
+   {
+      "column0": "PY",
+      "Country": "Paraguay",
+      "Capital": "Asuncion"
+   },
+   {
+      "column0": "QA",
+      "Country": "Qatar",
+      "Capital": "Doha"
+   },
+   {
+      "column0": "RE",
+      "Country": "Reunion",
+      "Capital": "Saint-Denis"
+   },
+   {
+      "column0": "RO",
+      "Country": "Romania",
+      "Capital": "Bucharest"
+   },
+   {
+      "column0": "RS",
+      "Country": "Serbia",
+      "Capital": "Belgrade"
+   },
+   {
+      "column0": "RU",
+      "Country": "Russia",
+      "Capital": "Moscow",
+      "column3": "LT",
+      "column4": "FI",
+      "column5": "MN",
+      "column6": "NO",
+      "column7": "AZ",
+      "column8": "KP\t"
+   },
+   {
+      "column0": "RW",
+      "Country": "Rwanda",
+      "Capital": "Kigali"
+   },
+   {
+      "column0": "SA",
+      "Country": "Saudi Arabia",
+      "Capital": "Riyadh"
+   },
+   {
+      "column0": "SB",
+      "Country": "Solomon Islands",
+      "Capital": "Honiara"
+   },
+   {
+      "column0": "SC",
+      "Country": "Seychelles",
+      "Capital": "Victoria"
+   },
+   {
+      "column0": "SD",
+      "Country": "Sudan",
+      "Capital": "Khartoum"
+   },
+   {
+      "column0": "SS",
+      "Country": "South Sudan",
+      "Capital": "Juba"
+   },
+   {
+      "column0": "SE",
+      "Country": "Sweden",
+      "Capital": "Stockholm"
+   },
+   {
+      "column0": "SG",
+      "Country": "Singapore",
+      "Capital": "Singapore"
+   },
+   {
+      "column0": "SH",
+      "Country": "Saint Helena",
+      "Capital": "Jamestown"
+   },
+   {
+      "column0": "SI",
+      "Country": "Slovenia",
+      "Capital": "Ljubljana"
+   },
+   {
+      "column0": "SJ",
+      "Country": "Svalbard and Jan Mayen",
+      "Capital": "Longyearbyen"
+   },
+   {
+      "column0": "SK",
+      "Country": "Slovakia",
+      "Capital": "Bratislava"
+   },
+   {
+      "column0": "SL",
+      "Country": "Sierra Leone",
+      "Capital": "Freetown"
+   },
+   {
+      "column0": "SM",
+      "Country": "San Marino",
+      "Capital": "San Marino"
+   },
+   {
+      "column0": "SN",
+      "Country": "Senegal",
+      "Capital": "Dakar"
+   },
+   {
+      "column0": "SO",
+      "Country": "Somalia",
+      "Capital": "Mogadishu"
+   },
+   {
+      "column0": "SR",
+      "Country": "Suriname",
+      "Capital": "Paramaribo"
+   },
+   {
+      "column0": "ST",
+      "Country": "Sao Tome and Principe",
+      "Capital": "Sao Tome"
+   },
+   {
+      "column0": "SV",
+      "Country": "El Salvador",
+      "Capital": "San Salvador"
+   },
+   {
+      "column0": "SX",
+      "Country": "Sint Maarten",
+      "Capital": "Philipsburg"
+   },
+   {
+      "column0": "SY",
+      "Country": "Syria",
+      "Capital": "Damascus"
+   },
+   {
+      "column0": "SZ",
+      "Country": "Eswatini",
+      "Capital": "Mbabane"
+   },
+   {
+      "column0": "TC",
+      "Country": "Turks and Caicos Islands",
+      "Capital": "Cockburn Town"
+   },
+   {
+      "column0": "TD",
+      "Country": "Chad",
+      "Capital": "N'Djamena"
+   },
+   {
+      "column0": "TF",
+      "Country": "French Southern Territories",
+      "Capital": "Port-aux-Francais"
+   },
+   {
+      "column0": "TG",
+      "Country": "Togo",
+      "Capital": "Lome"
+   },
+   {
+      "column0": "TH",
+      "Country": "Thailand",
+      "Capital": "Bangkok"
+   },
+   {
+      "column0": "TJ",
+      "Country": "Tajikistan",
+      "Capital": "Dushanbe"
+   },
+   {
+      "column0": "TK",
+      "Country": "Tokelau"
+   },
+   {
+      "column0": "TL",
+      "Country": "Timor Leste",
+      "Capital": "Dili"
+   },
+   {
+      "column0": "TM",
+      "Country": "Turkmenistan",
+      "Capital": "Ashgabat"
+   },
+   {
+      "column0": "TN",
+      "Country": "Tunisia",
+      "Capital": "Tunis"
+   },
+   {
+      "column0": "TO",
+      "Country": "Tonga",
+      "Capital": "Nuku'alofa"
+   },
+   {
+      "column0": "TR",
+      "Country": "Turkey",
+      "Capital": "Ankara"
+   },
+   {
+      "column0": "TT",
+      "Country": "Trinidad and Tobago",
+      "Capital": "Port of Spain"
+   },
+   {
+      "column0": "TV",
+      "Country": "Tuvalu",
+      "Capital": "Funafuti"
+   },
+   {
+      "column0": "TW",
+      "Country": "Taiwan",
+      "Capital": "Taipei"
+   },
+   {
+      "column0": "TZ",
+      "Country": "Tanzania",
+      "Capital": "Dodoma"
+   },
+   {
+      "column0": "UA",
+      "Country": "Ukraine",
+      "Capital": "Kyiv"
+   },
+   {
+      "column0": "UG",
+      "Country": "Uganda",
+      "Capital": "Kampala"
+   },
+   {
+      "column0": "UM",
+      "Country": "United States Minor Outlying Islands"
+   },
+   {
+      "column0": "US",
+      "Country": "United States",
+      "Capital": "Washington"
+   },
+   {
+      "column0": "UY",
+      "Country": "Uruguay",
+      "Capital": "Montevideo"
+   },
+   {
+      "column0": "UZ",
+      "Country": "Uzbekistan",
+      "Capital": "Tashkent"
+   },
+   {
+      "column0": "VA",
+      "Country": "Vatican",
+      "Capital": "Vatican City"
+   },
+   {
+      "column0": "VC",
+      "Country": "Saint Vincent and the Grenadines",
+      "Capital": "Kingstown"
+   },
+   {
+      "column0": "VE",
+      "Country": "Venezuela",
+      "Capital": "Caracas"
+   },
+   {
+      "column0": "VG",
+      "Country": "British Virgin Islands",
+      "Capital": "Road Town"
+   },
+   {
+      "column0": "VI",
+      "Country": "U.S. Virgin Islands",
+      "Capital": "Charlotte Amalie"
+   },
+   {
+      "column0": "VN",
+      "Country": "Vietnam",
+      "Capital": "Hanoi"
+   },
+   {
+      "column0": "VU",
+      "Country": "Vanuatu",
+      "Capital": "Port Vila"
+   },
+   {
+      "column0": "WF",
+      "Country": "Wallis and Futuna",
+      "Capital": "Mata Utu"
+   },
+   {
+      "column0": "WS",
+      "Country": "Samoa",
+      "Capital": "Apia"
+   },
+   {
+      "column0": "YE",
+      "Country": "Yemen",
+      "Capital": "Sanaa"
+   },
+   {
+      "column0": "YT",
+      "Country": "Mayotte",
+      "Capital": "Mamoudzou"
+   },
+   {
+      "column0": "ZA",
+      "Country": "South Africa",
+      "Capital": "Pretoria"
+   },
+   {
+      "column0": "ZM",
+      "Country": "Zambia",
+      "Capital": "Lusaka"
+   },
+   {
+      "column0": "ZW",
+      "Country": "Zimbabwe",
+      "Capital": "Harare"
+   },
+   {
+      "column0": "CS",
+      "Country": "Serbia and Montenegro",
+      "Capital": "Belgrade"
+   },
+   {
+      "column0": "AN",
+      "Country": "Netherlands Antilles",
+      "Capital": "Willemstad"
+   }
+]
